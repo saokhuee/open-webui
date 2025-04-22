@@ -1,6 +1,6 @@
 {
-  "name": "Open WebUI",
-  "short_name": "WebUI",
+  "name": "Học Liệu - Trợ lý",
+  "short_name": "Hoclieu.vn",
   "icons": [
     {
       "src": "/static/web-app-manifest-192x192.png",
